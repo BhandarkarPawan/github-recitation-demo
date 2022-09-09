@@ -1,4 +1,3 @@
 # github-recitation-demo
-Git Demo 
+In-N-Out burgers have great burgers but Five Guys has the best burgers. [Though I never tried it before :)]
 
-Five Guys has the best burgers though I never tried it before :)
